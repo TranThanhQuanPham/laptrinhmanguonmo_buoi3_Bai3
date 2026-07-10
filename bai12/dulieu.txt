@@ -1,0 +1,1 @@
+chạy sql bên laragon tạo cơ sở dữ liệu rồi tạo bảng
